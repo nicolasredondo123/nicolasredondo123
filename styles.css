@@ -262,6 +262,13 @@ h2 {
   background-color: rgb(255, 255, 255);
 }
 
+.contacto-section h2,
+.contacto-section h3,
+.contacto-section h4 {
+  color: #1f2937;
+}
+
+
 .contacto-grid {
   display: grid;
   grid-template-columns: 1fr;
