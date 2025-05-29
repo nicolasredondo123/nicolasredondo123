@@ -13,7 +13,7 @@ body {
 }
 
 #titulo-principal {
-  color: rgb(84, 50, 205);
+  color: rgb(89, 143, 223);
 }
 
 .container-narrow {
@@ -138,7 +138,7 @@ h2 {
 .btn-whatsapp {
   display: block;
   width: 100%;
-  background-color: green;
+  background-color: rgb(89, 143, 223);
   color: white;
   text-align: center;
   padding: 0.5rem;
@@ -148,7 +148,7 @@ h2 {
 }
 
 .btn-whatsapp:hover {
-  background-color: rgb(0, 179, 0);
+  background-color: rgb(76, 86, 225);
 }
 
 /* Feactures */
@@ -258,14 +258,14 @@ h2 {
 /* Sección de contacto */
 .contacto-section {
   padding: 4rem 1rem;
-  color: #1f2937;
+  color: #b9d0f1;
   background-color: rgb(255, 255, 255);
 }
 
 .contacto-section h2,
 .contacto-section h3,
 .contacto-section h4 {
-  color: #1f2937;
+  color: rgb(89, 143, 223);
 }
 
 
